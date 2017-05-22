@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dead Earth.Plugins", "Dead Earth.Plugins.csproj", "{0892C5EE-67E9-AB9A-E91E-A7ABB96D901D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dead Earth.Editor.Plugins", "Dead Earth.Editor.Plugins.csproj", "{616BC59A-A108-8235-E288-B75CD4F20985}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0892C5EE-67E9-AB9A-E91E-A7ABB96D901D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0892C5EE-67E9-AB9A-E91E-A7ABB96D901D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0892C5EE-67E9-AB9A-E91E-A7ABB96D901D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0892C5EE-67E9-AB9A-E91E-A7ABB96D901D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{616BC59A-A108-8235-E288-B75CD4F20985}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{616BC59A-A108-8235-E288-B75CD4F20985}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{616BC59A-A108-8235-E288-B75CD4F20985}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{616BC59A-A108-8235-E288-B75CD4F20985}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
